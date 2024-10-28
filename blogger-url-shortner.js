@@ -7,7 +7,7 @@ var urls={
 'fb':'https://www.facebook.com/arbd0',
 'ig':'https://www.instagram.com/sysa_shoaiyb',
 'twitter':"https://twitter.com/shoaiybsysa",
-'gh':"https://github.com/shoaiyb"
+'gh':"https://github.com/asikurbd"
   
 }
 if(key){
