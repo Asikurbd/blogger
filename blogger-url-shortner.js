@@ -1,3 +1,4 @@
+<script language='javascript'>
 
 //<![CDATA[
 var key = window.location.href.split("go/")[1].replace("/","")
@@ -18,3 +19,5 @@ document.write("'"+key+"' not fkkound :(");
 }
 }
 //]]>
+
+</script>
