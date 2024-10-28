@@ -7,7 +7,7 @@ var urls={
 'fb':'https://www.facebook.com/arbd0',
 
 
-'ig':'https://www.instagram.com/sysa_shoaiyb',
+'gl':'https://www.google.com',
 
 
 'soft':"https://arbd99.blogspot.com/p/pc-softwore.html",
