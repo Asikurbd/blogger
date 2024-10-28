@@ -1,5 +1,3 @@
-<script language='javascript'>
-
 //<![CDATA[
 var key = window.location.href.split("go/")[1].replace("?m=1","")
 var urls={
@@ -28,4 +26,3 @@ document.write("'"+key+"' not found :(");
 }
 }
 //]]>
-</script>
