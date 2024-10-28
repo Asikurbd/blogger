@@ -1,13 +1,15 @@
+<script language='javascript'>
+
 //<![CDATA[
 var key = window.location.href.split("go/")[1].replace("?m=1","")
 var urls={
 
 
 
-'fb':'https://www.facebook.com/arbd0',
+'fb':"https://www.facebook.com/arbd0",
 
 
-'gl':'https://www.google.com',
+'gl':"https://www.google.com",
 
 
 'soft':"https://arbd99.blogspot.com/p/pc-softwore.html",
@@ -26,3 +28,5 @@ document.write("'"+key+"' not found :(");
 }
 }
 //]]>
+
+</script>
