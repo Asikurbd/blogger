@@ -14,7 +14,7 @@ if(key){
 if(urls[key]){
 window.location.href=urls[key]
 }else{
-document.write("'"+key+"' not found :(");
+document.write("'"+key+"' not fkkound :(");
 }
 }
 //]]>
