@@ -1,10 +1,11 @@
-<script language='javascript'>
+
 
 //<![CDATA[
-var key = window.location.href.split("go/")[1].replace("?m=1","")
+var key = window.location.href.split("g/")[1].replace("?m=1","")
 var urls={
 
-  
+
+
 'yt':"https://youtube.com",
 
 'fb':"https://www.facebook.com/arbd0",
@@ -28,5 +29,3 @@ document.write("'"+key+"' not found :(");
 }
 }
 //]]>
-
-</script>
