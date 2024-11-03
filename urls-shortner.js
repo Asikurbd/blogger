@@ -1,11 +1,9 @@
-
+<script language='javascript'>
 //<![CDATA[
 var key = window.location.href.split("g/")[1].replace("?m=1","")
 var urls={
 
 
-
-'fbx':"https://xhamster.desi",  
 
 'yt':"https://youtube.com",
 
@@ -29,4 +27,4 @@ window.location.href=urls[key]
 document.write("'"+key+"' not found :(");
 }
 }
-//]]>
+//]]> </script>
