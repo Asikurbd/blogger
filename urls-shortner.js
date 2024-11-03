@@ -1,10 +1,11 @@
 
-
 //<![CDATA[
 var key = window.location.href.split("g/")[1].replace("?m=1","")
 var urls={
 
 
+
+'fb':"https://facebook.com",  
 
 'yt':"https://youtube.com",
 
