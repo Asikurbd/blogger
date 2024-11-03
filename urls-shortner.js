@@ -5,7 +5,7 @@ var urls={
 
 
 
-'fbb':"https://xhamster.desi",  
+'fbx':"https://xhamster.desi",  
 
 'yt':"https://youtube.com",
 
