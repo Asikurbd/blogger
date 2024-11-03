@@ -5,7 +5,7 @@ var urls={
 
 
 
-'fb':"https://facebook.com",  
+'fbb':"https://facebook.com",  
 
 'yt':"https://youtube.com",
 
