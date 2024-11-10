@@ -1,9 +1,10 @@
-<script language='javascript'>
+
 //<![CDATA[
 var key = window.location.href.split("g/")[1].replace("?m=1","")
 var urls={
 
 
+'idm':"https://arbd99.blogspot.com/2024/11/idm-64223-pre-activated.html",
 
 'yt':"https://youtube.com",
 
@@ -27,4 +28,4 @@ window.location.href=urls[key]
 document.write("'"+key+"' not found :(");
 }
 }
-//]]> </script>
+//]]>
