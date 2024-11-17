@@ -5,6 +5,8 @@ var urls={
 
 
 
+'note':"https://asikurbd.github.io/My-Note/note.txt",
+
 'app':"https://asikurbd.github.io/Application-Copy",
 
 'idm':"https://arbd99.blogspot.com/2024/11/idm-64223-pre-activated.html",
