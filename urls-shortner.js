@@ -5,7 +5,7 @@ var urls={
 
 
 
-'note':"https://arbd99.blogspot.com/p/my-note.html", 
+'note':"https://arbd99.blogspot.com/p/my-note-xjsjgkmgfkgfufdkndfgn.html", 
 
 'app':"https://asikurbd.github.io/Application-Copy",
 
