@@ -4,6 +4,7 @@ var key = window.location.href.split("g/")[1].replace("?m=1","")
 var urls={
 
 
+'font':"https://asikurbd.github.io/font-converter/index2.html",  
 
 'nte':"https://arbd99.blogspot.com/p/my-note-xjsjgkmgfkgfufdkndfgn.html", 
 
